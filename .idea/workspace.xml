@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14558292-5745-48e1-9459-26b64f469f9b" name="Default" comment="" />
+    <list default="true" id="14558292-5745-48e1-9459-26b64f469f9b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,6 +135,17 @@
             <path>
               <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
@@ -408,12 +421,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506683875438</updated>
       <workItem from="1506683880986" duration="34000" />
-      <workItem from="1506684018901" duration="2779000" />
+      <workItem from="1506684018901" duration="3343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2813000" />
+    <option name="totallyTimeSpent" value="3377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1376" height="754" extended-state="6" />
