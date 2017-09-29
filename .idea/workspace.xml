@@ -29,11 +29,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondServlet.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SecondServlet.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SecondServlet.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaaaa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yzq/aaaaa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,6 +119,7 @@
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/com/yzq/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -145,6 +166,22 @@
             <path>
               <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondServlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SecondServlet" type="b2602c69:ProjectViewProjectNode" />
@@ -420,12 +457,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506683875438</updated>
       <workItem from="1506683880986" duration="34000" />
-      <workItem from="1506684018901" duration="4328000" />
+      <workItem from="1506684018901" duration="4707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4362000" />
+    <option name="totallyTimeSpent" value="4741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1376" height="754" extended-state="6" />
@@ -542,6 +579,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yzq/aaaaa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
